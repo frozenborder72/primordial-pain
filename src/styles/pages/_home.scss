@@ -12,6 +12,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  position: relative;
+  z-index: 9999;
 
   @media (max-width: 500px) {
     background-position: 20%;
@@ -22,6 +24,7 @@
   display: flex;
   align-items: center;
   text-align: center;
+  padding: 0 1rem;
 
   h1 {
     font-size: 3.5rem;
