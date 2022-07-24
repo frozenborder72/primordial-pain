@@ -1,7 +1,37 @@
 {
   "Raven Borsi": {
     "works": [
-      ""
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/02.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/03.jpg"
     ] 
+  },
+  "Le Sacre Linee": {
+    "works": [
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/02.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/03.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/04.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/05.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/06.jpg"
+    ]
+  },
+  "Davide DW Pozzato": {
+    "works": [
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/02.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/03.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/04.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/05.jpg"
+    ]
+  },
+  "Carlo Schiavoni": {
+    "works": [
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
+      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg"
+    ]
   }
 }
