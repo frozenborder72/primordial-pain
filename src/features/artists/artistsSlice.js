@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
-import worksService from './worksService'
+import artistsService from './artistsService'
 
 const initialState = {
   artists: {},
@@ -11,7 +11,7 @@ const initialState = {
 
 export const getArtists = createAsyncThunk('artists/getAll', async () => {
   try {
-    return await worksService.getArtists()
+    return await artistsService.getArtists()
   } catch (error) {
     console.error(error)
   }

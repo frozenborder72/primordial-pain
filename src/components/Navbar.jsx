@@ -15,8 +15,7 @@ const Navbar = () => {
 
       <div
         className={`menu-btn ${isMenuOpen ? 'open' : ''}`}
-        onClick={toggleHamburger}
-      >
+        onClick={toggleHamburger}>
         <div className="menu-btn__lines"></div>
       </div>
 
@@ -28,7 +27,7 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="menu-item">
-            <Link to="/works" onClick={closeMenuIfOpen}>
+            <Link to="/artists" onClick={closeMenuIfOpen}>
               Guest Artists
             </Link>
           </li>
