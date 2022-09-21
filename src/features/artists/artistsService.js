@@ -6,6 +6,7 @@ const getArtists = async () => {
   )
 
   return res.data
+  console.log(res.data)
 }
 
 const artistsService = {

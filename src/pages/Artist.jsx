@@ -4,7 +4,7 @@ import data from '../data/data.json'
 const Artist = () => {
   const { artist } = useParams()
 
-  const works = data[artist].works
+  const works = data.guests[artist].works
 
   return (
     <section className="container">
