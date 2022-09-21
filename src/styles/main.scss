@@ -1,6 +1,10 @@
 @import 'base/reset';
 @import 'absracts/variables';
 
+@import 'base/typography';
+
 @import 'components/navbar';
+
+@import 'layout/layout';
 
 @import 'pages/home';

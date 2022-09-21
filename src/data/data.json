@@ -9,41 +9,43 @@
       "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/roby/optimized/06.jpg",
       "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/roby/optimized/07.jpg",
       "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/roby/optimized/08.jpg"
-    ] 
-  },
-  "raven-borsi": {
-    "works": [
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/01.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/02.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/03.jpg"
-    ] 
-  },
-  "le-sacre-linee": {
-    "works": [
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/01.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/02.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/03.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/04.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/05.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/06.jpg"
     ]
   },
-  "davide-dW-pozzato": {
-    "works": [
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/01.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/02.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/03.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/04.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/05.jpg"
-    ]
-  },
-  "carlo-schiavoni": {
-    "works": [
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/02.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/03.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/04.jpg",
-      "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/05.jpg"
-    ]
+  "guests": {
+    "raven-borsi": {
+      "works": [
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/01.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/02.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/raven/optimized/03.jpg"
+      ]
+    },
+    "le-sacre-linee": {
+      "works": [
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/01.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/02.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/03.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/04.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/05.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/lesacrelinee/optimized/06.jpg"
+      ]
+    },
+    "davide-dW-pozzato": {
+      "works": [
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/01.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/02.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/03.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/04.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/davidedwpozzato/optimized/05.jpg"
+      ]
+    },
+    "carlo-schiavoni": {
+      "works": [
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/01.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/02.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/03.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/04.jpg",
+        "https://raw.githubusercontent.com/frozenborder72/primordial-pain/main/images/carloschiavoni/optimized/05.jpg"
+      ]
+    }
   }
 }

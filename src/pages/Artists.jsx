@@ -20,8 +20,8 @@ const Artists = () => {
 
   return (
     <section className="container">
-      <h1>Works</h1>
-      <div className="container-grid">
+      <h1>Guest Artists</h1>
+      <div className="container-works">
         {isLoading ? (
           <p>Loading...</p>
         ) : isError ? (
@@ -30,7 +30,12 @@ const Artists = () => {
           guests.map((guest, i) => (
             <div className="card" key={i}>
               <Link to={`/artists/${guest}`}>
-                <h3>{guest}</h3>
+                <h3>
+                  {guest
+                    .split('-')
+                    .map(w => w[0].toUpperCase() + w.slice(1))
+                    .join(' ')}
+                </h3>
                 <img
                   src={
                     artists[guest].works[

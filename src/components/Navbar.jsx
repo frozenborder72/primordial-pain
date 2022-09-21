@@ -22,7 +22,7 @@ const Navbar = () => {
       <nav className="main-navigation">
         <ul className={`menu-items ${isMenuOpen ? 'open' : ''}`}>
           <li className="menu-item">
-            <Link to="/about" onClick={closeMenuIfOpen}>
+            <Link to="/artists/horibudo-i" onClick={closeMenuIfOpen}>
               Horibudo I
             </Link>
           </li>
