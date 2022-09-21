@@ -18,6 +18,8 @@ const Artists = () => {
   //   dispatch(getArtists())
   // }, [isError, dispatch])
 
+  console.log(data)
+
   return (
     <section className="container">
       <h1>Guest Artists</h1>
