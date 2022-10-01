@@ -1,10 +1,14 @@
 import { useParams } from 'react-router-dom'
-import data from '../data/data.json'
+import { useSelector } from 'react-redux'
+
+import { selectAllArtists } from '../features/artists/artistsSlice'
 
 const Artist = () => {
+  const { guests } = useSelector(selectAllArtists)
+
   const { artist } = useParams()
 
-  const works = data.guests[artist].works
+  console.log(guests[artist])
 
   return (
     <section className="container">
@@ -15,7 +19,7 @@ const Artist = () => {
           .join(' ')}
       </h1>
       <div className="container-works">
-        {works.map((work, i) => (
+        {guests[artist].works.map((work, i) => (
           <div className="card" key={i}>
             <img src={work} alt={artist} />
           </div>

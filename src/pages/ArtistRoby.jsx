@@ -1,13 +1,16 @@
-import data from '../data/data.json'
+import { useSelector } from 'react-redux'
+
+import { selectAllArtists } from '../features/artists/artistsSlice'
 
 const Artist = () => {
-  const works = data['horibudo-i'].works
+  const artists = useSelector(selectAllArtists)
+  console.log(artists['horibudo-i'])
 
   return (
     <section className="container">
       <h1>Horibudo I</h1>
       <div className="container-works">
-        {works.map((work, i) => (
+        {artists['horibudo-i'].works.map((work, i) => (
           <div className="card" key={i}>
             <img src={work} alt="Horibudo I" />
           </div>

@@ -38,4 +38,6 @@ export const artistsSlice = createSlice({
   },
 })
 
+export const selectAllArtists = state => state.artists.artists
+
 export default artistsSlice.reducer
