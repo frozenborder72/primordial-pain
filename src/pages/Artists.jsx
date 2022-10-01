@@ -19,14 +19,7 @@ const Artists = () => {
                   .map(w => w[0].toUpperCase() + w.slice(1))
                   .join(' ')}
               </h3>
-              <img
-                src={
-                  guests[guest].works[
-                    Math.floor(Math.random() * guests[guest].works.length)
-                  ]
-                }
-                alt=""
-              />
+              <img src={guests[guest].works[0]} alt="" />
             </Link>
           </div>
         ))}
