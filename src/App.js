@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Artist from './pages/Artist'
 import ArtistRoby from './pages/ArtistRoby'
 import Artists from './pages/Artists'
+import Book from './pages/Book'
 import Home from './pages/Home'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path="/artists" element={<Artists />} />
         <Route path="/artists/horibudo-i" element={<ArtistRoby />} />
         <Route path="/artists/:artist" element={<Artist />} />
+        <Route path="/the-book" element={<Book />} />
       </Routes>
     </BrowserRouter>
   )

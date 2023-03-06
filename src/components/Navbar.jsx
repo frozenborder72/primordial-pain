@@ -32,8 +32,8 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="menu-item">
-            <Link to="/works" onClick={closeMenuIfOpen}>
-              Horitoshi I
+            <Link to="/the-book" onClick={closeMenuIfOpen}>
+              The Book
             </Link>
           </li>
           <li className="menu-item">

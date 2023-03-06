@@ -61,3 +61,24 @@ img {
     margin-inline: auto;
   }
 }
+
+.container-book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 0 1em;
+
+}
+
+.video-container {
+  max-width: 100%;
+  flex-grow: 1;
+
+
+  .youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 800px;
+    max-width: 100%;
+  }
+}
